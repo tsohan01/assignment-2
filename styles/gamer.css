@@ -96,7 +96,7 @@ nav li a {
 .banner {
     display: flex;
     justify-content: space-between;
-    height: 3000px;
+    
 
 }
 
@@ -295,6 +295,7 @@ nav li a {
 .footer {
     background: #0B0223;
     margin-top: 250px;
+    
 }
 
 .footer-title {
@@ -361,7 +362,8 @@ nav li a {
 
     nav,
     nav ul,
-    .banner {
+    .banner,
+    .banner img {
         flex-direction: column;
     }
 
